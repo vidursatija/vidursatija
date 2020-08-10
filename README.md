@@ -20,12 +20,12 @@ I am a Machine Learning engineer by specialization, software engineer by profess
 
 
 ## ~Specifications~
-- ~1. 40 Hz processor, turbo boost upto 100Hz~
-- ~2. 1.5 EB disk space~
+- ~40 Hz processor, turbo boost upto 100 Hz~
+- ~1.5 EB disk space~
 
 
 ## Specifications
-| *Name* \ Familiarity | High | Medium | Low |
+| *Name \ Familiarity* | High | Medium | Low |
 | --------------- | --------------- | --------------- | ------------- |
 | **Languages(programming)** | Python | JS, C, C++ | Swift, Java |
 | **Frameworks** | Tensorflow, PyTorch | Node.js, GCP, Git | Vue.js, AWS |
