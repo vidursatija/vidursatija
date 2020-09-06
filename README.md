@@ -31,8 +31,8 @@ I am a Machine Learning engineer by specialization, software engineer by profess
 | **Frameworks** | Tensorflow, PyTorch | Node.js, GCP, Git | Vue.js, AWS |
 | **I can't club them into one** | Speech Processing(AI), Computer Vision(AI) | Natural Language(AI), Data Science | Augmented Reality, Parallel Computing, Distributed Systems, Internet of Things |
 | **OSes** | MacOS, iOS | Ubuntu, Debian, Raspbian | Windows |
-| **Languages(human)** | Hindi, English | Spanish, Portuguese | German, Swedish, Italian |
-| **Other interests** | Monetary Economics, Neuroscience | Behavioural Economics, Political Science, Languages | Privacy |
+| **Languages(human)** | Hindi(hi), English(en) | español(es), português(pt_br) | Deustche(de), svenska(se), italiano(it) |
+| **Other interests** | Monetary Economics, Languages | Behavioural Economics, Political Science, Neuroscience | Digital Privacy |
 
 ## Requirements [to talk to him]
 1. Open mind
@@ -50,4 +50,4 @@ echo "Reach out to him on any of the links above"
 
 2. **What is my work about?** I can't disclose much right now but we are reimagining the way people live.
 
-3. **applevidur? Seriously?** I was a kid.
+3. **Do you have a website?** I had. I'm making a new one.
