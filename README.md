@@ -31,7 +31,7 @@ I am a Machine Learning engineer by specialization, software engineer by profess
 | **Frameworks** | Tensorflow, PyTorch | Node.js, GCP, Git | Vue.js, AWS |
 | **I can't club them into one** | Speech Processing(AI), Computer Vision(AI) | Natural Language(AI), Data Science | Augmented Reality, Parallel Computing, Distributed Systems, Internet of Things |
 | **OSes** | MacOS, iOS | Ubuntu, Debian, Raspbian | Windows |
-| **Languages(human)** | Hindi(hi), English(en) | español(es), português(pt_br) | Deustche(de), svenska(se), italiano(it) |
+| **Languages(human)** | Hindi(hi), English(en) | español(es), português(pt_br) | svenska(se), italiano(it) |
 | **Other interests** | Monetary Economics, Languages | Behavioural Economics, Political Science, Neuroscience | Digital Privacy |
 
 ## Requirements [to talk to him]
