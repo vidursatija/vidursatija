@@ -15,7 +15,7 @@
 I am a Machine Learning engineer by specialization, software engineer by profession and an engineer at heart.
 - I’m currently making magical living experiences at a stealth startup.
 - I’m currently learning convex optimization.
-- I’m looking to collaborate on idk my weekends are predominantly free.
+- I’m not looking to collaborate on anything rn **BUT** if you have something moderately difficult[(check this graph to understand)](https://s3-us-west-2.amazonaws.com/courses-images-archive-read-only/wp-content/uploads/sites/902/2015/02/23224933/CNX_Psych_10_01_YerkesDod.jpg) and interesting let me know. I can prioritize things.
 - I’m looking for help with languages.
 - Fun fact: I got so excited while going to Universal Studios that my heart rate went to 210 bpm and I almost crashed. (Oh and it has happened a few more times)
 
