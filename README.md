@@ -3,6 +3,7 @@
 ![version :11.8.2020](https://img.shields.io/badge/version-11.8.2020-informational)
 [![mail: applevidur@gmail.com](https://img.shields.io/badge/mail-applevidur%20at%20gmail%20dot%20com-red)](mailto://applevidur@gmail.com)
 [![Linkedin: vidursatija](https://img.shields.io/badge/-vidursatija-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vidursatija/)](https://www.linkedin.com/in/vidursatija/)
+[![Twitter: viduraaaaa](https://img.shields.io/badge/-viduraaaaa-blue?style=flat-square&logo=twitter&link=https://www.twitter.com/viduraaaaa)](https://www.twitter.com/viduraaaaa)
 ![status: hired](https://img.shields.io/badge/status-hired-brightgreen)
 
 ![license: illegal to own humans](https://img.shields.io/badge/license-it%20is%20illegal%20to%20own%20humans-critical)
@@ -16,7 +17,7 @@ I am a Machine Learning engineer by specialization, software engineer by profess
 - I’m currently learning convex optimization.
 - I’m looking to collaborate on idk my weekends are predominantly free.
 - I’m looking for help with languages.
-- Fun fact: I have walked over 20 kilometers in a single day thrice. 
+- Fun fact: I got so excited while going to Universal Studios that my heart rate went to 210 bpm and I almost crashed. (Oh and it has happened a few more times)
 
 
 ## ~Specifications~
@@ -31,8 +32,8 @@ I am a Machine Learning engineer by specialization, software engineer by profess
 | **Frameworks** | Tensorflow, PyTorch | Node.js, GCP, Git | Vue.js, AWS |
 | **I can't club them into one** | Speech Processing(AI), Computer Vision(AI) | Natural Language(AI), Data Science | Augmented Reality, Parallel Computing, Distributed Systems, Internet of Things |
 | **OSes** | MacOS, iOS | Ubuntu, Debian, Raspbian | Windows |
-| **Languages(human)** | Hindi(hi), English(en) | español(es), português(pt_br) | svenska(se), italiano(it) |
-| **Other interests** | Monetary Economics, Languages | Behavioural Economics, Political Science, Neuroscience | Digital Privacy |
+| **Languages(human)** | Hindi(hi), English(en) | español(es), português(pt_br) | italiano(it) // New: svenska(se), deutsche(de)  |
+| **Other interests** | Monetary Economics, Languages | Behavioural Economics, politics(read: useless activism), Neuroscience | Digital Privacy |
 
 ## Requirements [to talk to him]
 1. Open mind
@@ -46,8 +47,6 @@ echo "Reach out to him on any of the links above"
 
 
 ## FAQ
-1. **Why don't you have social media?** I do, it's just deactivated.
+1. **What is my work about?** I can't disclose much right now but we are reimagining the way people live.
 
-2. **What is my work about?** I can't disclose much right now but we are reimagining the way people live.
-
-3. **Do you have a website?** I had. I'm making a new one.
+2. **Do you have a website?** I had. I'm making a new one.
