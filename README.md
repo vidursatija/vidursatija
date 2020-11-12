@@ -4,10 +4,9 @@
 [![mail: applevidur@gmail.com](https://img.shields.io/badge/mail-applevidur%20at%20gmail%20dot%20com-red)](mailto://applevidur@gmail.com)
 [![Linkedin: vidursatija](https://img.shields.io/badge/-vidursatija-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vidursatija/)](https://www.linkedin.com/in/vidursatija/)
 [![Twitter: viduraaaaa](https://img.shields.io/badge/-viduraaaaa-blue?style=flat-square&logo=twitter&link=https://www.twitter.com/viduraaaaa)](https://www.twitter.com/viduraaaaa)
-![status: hired](https://img.shields.io/badge/status-hired-brightgreen)
 
-![license: illegal to own humans](https://img.shields.io/badge/license-it%20is%20illegal%20to%20own%20humans-critical)
-[![but: feel free to use my repos](https://img.shields.io/badge/but-feel%20free%20to%20use%20my%20repos-success)](https://github.com/vidursatija)
+![status: hired](https://img.shields.io/badge/status-hired-brightgreen)
+[![license: feel free to use my repos](https://img.shields.io/badge/license-feel%20free%20to%20use%20my%20repos-success)](https://github.com/vidursatija)
 <!-- [![~Twitter:~](https://img.shields.io/twitter/follow/?style=social)](https://twitter.com/) 
 [![GitHub vidursatija](https://img.shields.io/github/followers/vidursatija?label=follow&style=social)](https://github.com/vidursatija) -->
 
