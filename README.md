@@ -35,18 +35,18 @@ I am a Machine Learning engineer by specialization, software engineer by profess
 | **Languages(human)** | Hindi(hi), English(en) | español(es), português(pt_br) | italiano(it) // New: deutsche(de)  |
 | **Other interests** | Monetary Economics, Languages | Behavioural Economics, Neuroscience | Digital Privacy |
 
-## Requirements [to talk to him]
+## Requirements [to talk to me]
 1. Open mind
 2. Patience because I respond slow
 3. Mutual interests?
 
 ## How to run
 ```shell
-echo "Reach out to him on any of the links above"
+echo "Reach out to me on any of the links above"
 ```
 
 
 ## FAQ
 1. **What is my work about?** I can't disclose much right now but we are reimagining the way people live.
 
-2. **Do you have a website?** I had. I'm making a new one.
+2. **What are you doing nowadays?** Learning something from my to-learn-list.
