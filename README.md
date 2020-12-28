@@ -1,6 +1,6 @@
 # Vidur Satija: Human being from the 1990s
 ![build: passing](https://img.shields.io/badge/build-passing-success)
-![version :29.11.2020](https://img.shields.io/badge/version-29.11.2020-informational)
+![version :28.12.2020](https://img.shields.io/badge/version-28.12.2020-informational)
 [![mail: applevidur@gmail.com](https://img.shields.io/badge/mail-applevidur%20at%20gmail%20dot%20com-red)](mailto://applevidur@gmail.com)
 [![Linkedin: vidursatija](https://img.shields.io/badge/-vidursatija-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vidursatija/)](https://www.linkedin.com/in/vidursatija/)
 [![Twitter: viduraaaaa](https://img.shields.io/badge/-viduraaaaa-blue?style=flat-square&logo=twitter&link=https://www.twitter.com/viduraaaaa)](https://www.twitter.com/viduraaaaa)
@@ -12,7 +12,7 @@
 [![GitHub vidursatija](https://img.shields.io/github/followers/vidursatija?label=follow&style=social)](https://github.com/vidursatija) -->
 
 ## Abstract
-I am a Machine Learning engineer by specialization, software engineer by profession and an engineer at heart.
+I am do machine learning by specialization and am a software engineer at heart.
 - I’m currently making magical living experiences at a stealth startup.
 - I’m currently learning economics.
 - I’m not looking to collaborate on anything rn **BUT** if you have something moderately difficult[(check this graph to understand)](https://s3-us-west-2.amazonaws.com/courses-images-archive-read-only/wp-content/uploads/sites/902/2015/02/23224933/CNX_Psych_10_01_YerkesDod.jpg) and interesting let me know. I can prioritize things.
@@ -28,11 +28,11 @@ I am a Machine Learning engineer by specialization, software engineer by profess
 ## Specifications
 | *Name \ Familiarity* | High | Medium | Low |
 | --------------- | --------------- | --------------- | ------------- |
-| **Languages(programming)** | Python | JS, C, C++ | Swift, Java |
+| **Languages(programming)** | Python | JS, C, C++ | Swift, Java, Go |
 | **Frameworks** | Tensorflow, PyTorch | Node.js, GCP, Git | Vue.js, AWS |
 | **I can't club them into one** | Speech Processing(AI), Computer Vision(AI) | Natural Language(AI), Data Science, Internet of Things | Augmented Reality, Parallel Computing, Distributed Systems |
 | **OSes** | MacOS, iOS | Ubuntu, Debian, Raspbian | Windows |
-| **Languages(human)** | Hindi, English | Spanish, Portuguese | Italian // New: German  |
+| **Languages(human)** | Hindi, English | Spanish, Portuguese | Italian // New: Latin  |
 | **Other interests** | Monetary Economics, Languages | Behavioural Economics, Neuroscience | Digital Privacy |
 
 ## Requirements [to talk to me]
