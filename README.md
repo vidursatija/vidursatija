@@ -1,11 +1,11 @@
-# Vidur Satija: Human being from the 1990s
+# Vidur Satija: stocks only go up
 ![build: passing](https://img.shields.io/badge/build-passing-success)
-![version :15.02.2021](https://img.shields.io/badge/version-15.02.2021-informational)
+![version :27.02.2021](https://img.shields.io/badge/version-27.02.2021-informational)
 [![mail: applevidur@gmail.com](https://img.shields.io/badge/mail-applevidur%20at%20gmail%20dot%20com-red)](mailto://applevidur@gmail.com)
 [![Linkedin: vidursatija](https://img.shields.io/badge/-vidursatija-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vidursatija/)](https://www.linkedin.com/in/vidursatija/)
 [![Twitter: viduraaaaa](https://img.shields.io/badge/-viduraaaaa-blue?style=flat-square&logo=twitter&link=https://www.twitter.com/viduraaaaa)](https://www.twitter.com/viduraaaaa)
 
-![status: looking for jobs](https://img.shields.io/badge/status-looking%20for%20jobs-orange)
+![status: hired](https://img.shields.io/badge/status-hired-green)
 [![license: feel free to use my repos](https://img.shields.io/badge/license-feel%20free%20to%20use%20my%20repos-success)](https://github.com/vidursatija)
 ![profile count](https://komarev.com/ghpvc/?username=vidursatija&color=red)
 [![read more](https://img.shields.io/badge/read-more-informational)](https://vidur.netlify.app)
@@ -14,10 +14,10 @@
 
 ## Abstract
 I do machine learning by specialization and am a software engineer at heart.
-- I’m currently making magical living experiences at a stealth startup.
+- I’m currently working full-time as an ML engineer at [Vector.ai](https://vector.ai), working as a DevOps engineer(part-time contractor) at [Hyfe.ai](https://hyfeapp.com), and consulting at a stealth startup. 
 - I’m currently learning economics.
-- I’m not looking to collaborate on anything right now **BUT** if you have something moderately difficult[(check this graph to understand)](https://s3-us-west-2.amazonaws.com/courses-images-archive-read-only/wp-content/uploads/sites/902/2015/02/23224933/CNX_Psych_10_01_YerkesDod.jpg) and interesting let me know. I can prioritize things.
 - I’m looking for help with languages.
+- I enjoy playing soccer, badminton, and table tennis.
 - Fun fact: I love pizza so much that I once had it for 17 days straight.
 
 
@@ -30,7 +30,7 @@ I do machine learning by specialization and am a software engineer at heart.
 | *Name \ Familiarity* | High | Medium | Low |
 | --------------- | --------------- | --------------- | ------------- |
 | **Languages(programming)** | Python | JS, C, C++ | Swift, Java, Go |
-| **Frameworks** | Tensorflow, PyTorch | Node.js, GCP, Git | Vue.js, AWS |
+| **Frameworks/Platforms** | Tensorflow, PyTorch | Node.js, GCP, Git | Vue.js, AWS, Docker |
 | **I can't club them into one** | Speech Processing(AI), Computer Vision(AI) | Natural Language(AI), Data Science, Internet of Things | Augmented Reality, Parallel Computing, Distributed Systems |
 | **OSes** | MacOS, iOS | Ubuntu, Debian, Raspbian | Windows |
 | **Languages(human)** | Hindi, English | Spanish, Portuguese | Italian // New: Latin  |
@@ -44,10 +44,8 @@ I do machine learning by specialization and am a software engineer at heart.
 ## How to run
 ```shell
 echo "Reach out to me on any of the links above"
+echo "Do check my website vidur.netlify.app for more info"
 ```
 
-
-## FAQ
-1. **What is my work about?** I can't disclose much right now but we are reimagining the way people live.
-
-2. **What are you doing nowadays?** Learning something from my to-learn-list.
+## Quotes
+> Stay hungry, stay foolish. - Steve Jobs
