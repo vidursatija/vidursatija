@@ -1,14 +1,11 @@
 # Vidur Satija: stocks only go up
 ![build: passing](https://img.shields.io/badge/build-passing-success)
-![version :27.02.2021](https://img.shields.io/badge/version-27.02.2021-informational)
-[![mail: applevidur@gmail.com](https://img.shields.io/badge/mail-applevidur%20at%20gmail%20dot%20com-red)](mailto://applevidur@gmail.com)
-[![Linkedin: vidursatija](https://img.shields.io/badge/-vidursatija-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vidursatija/)](https://www.linkedin.com/in/vidursatija/)
-[![Twitter: viduraaaaa](https://img.shields.io/badge/-viduraaaaa-blue?style=flat-square&logo=twitter&link=https://www.twitter.com/viduraaaaa)](https://www.twitter.com/viduraaaaa)
+![version :30.04.2021](https://img.shields.io/badge/version-30.04.2021-informational)
+[![website](https://img.shields.io/badge/read-more-informational)](https://vidur.netlify.app)
 
 ![status: hired](https://img.shields.io/badge/status-hired-green)
 [![license: feel free to use my repos](https://img.shields.io/badge/license-feel%20free%20to%20use%20my%20repos-success)](https://github.com/vidursatija)
 ![profile count](https://komarev.com/ghpvc/?username=vidursatija&color=red)
-[![read more](https://img.shields.io/badge/read-more-informational)](https://vidur.netlify.app)
 <!-- [![~Twitter:~](https://img.shields.io/twitter/follow/?style=social)](https://twitter.com/) 
 [![GitHub vidursatija](https://img.shields.io/github/followers/vidursatija?label=follow&style=social)](https://github.com/vidursatija) -->
 
@@ -44,7 +41,7 @@ I do machine learning by specialization and am a software engineer at heart.
 ## How to run
 ```shell
 echo "Reach out to me on any of the links above"
-echo "Do check my website vidur.netlify.app for more info"
+echo "Do check my website https://vidur.netlify.app for more info"
 ```
 
 ## Quotes
