@@ -1,6 +1,6 @@
 # Vidur Satija: stocks only go up
 ![build: passing](https://img.shields.io/badge/build-passing-success)
-![version :30.04.2021](https://img.shields.io/badge/version-30.04.2021-informational)
+![version :22.04.2021](https://img.shields.io/badge/version-22.04.2021-informational)
 ![profile count](https://komarev.com/ghpvc/?username=vidursatija&color=red)
 
 ![status: hired](https://img.shields.io/badge/status-hired-green)
