@@ -1,6 +1,6 @@
 # Vidur Satija: stocks only go up
 ![build: passing](https://img.shields.io/badge/build-passing-success)
-![version :25.04.2021](https://img.shields.io/badge/version-22.04.2021-informational)
+![version :25.04.2021](https://img.shields.io/badge/version-25.04.2021-informational)
 ![profile count](https://komarev.com/ghpvc/?username=vidursatija&color=red)
 
 ![status: hired](https://img.shields.io/badge/status-hired-green)
@@ -13,6 +13,7 @@
 I do machine learning by specialization and am a software engineer at heart.
 - I’m currently working full-time as an ML engineer at [Vector.ai](https://vector.ai), working as a DevOps engineer(part-time contractor) at [Hyfe.ai](https://hyfeapp.com), and consulting at a stealth startup. 
 - I’m currently learning economics.
+- I can help you with career guidance.
 - I’m looking for help with languages.
 - I enjoy playing soccer, badminton, and table tennis.
 - Fun fact: I love pizza so much that I once had it for 17 days straight.
