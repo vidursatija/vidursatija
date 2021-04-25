@@ -42,7 +42,7 @@ I do machine learning by specialization and am a software engineer at heart.
 ## How to run
 ```shell
 echo "Reach out to me on any of the links above"
-echo "Do check my website https://vidur.netlify.app for more info"
+echo "Do check my website https://vidura.dev for more info"
 ```
 
 ## Quotes
