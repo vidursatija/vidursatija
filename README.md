@@ -1,6 +1,6 @@
 # Vidur Satija: stocks only go up
 ![build: passing](https://img.shields.io/badge/build-passing-success)
-![version :01.05.2021](https://img.shields.io/badge/version-01.05.2021-informational)
+![version :08.Jul.2021](https://img.shields.io/badge/version-08.Jul.2021-informational)
 ![profile count](https://komarev.com/ghpvc/?username=vidursatija&color=red)
 
 ![status: hired](https://img.shields.io/badge/status-hired-green)
@@ -11,11 +11,11 @@
 
 ## Abstract
 I do machine learning by specialization and am a software engineer at heart.
-- I’m currently working full-time as an ML engineer at [Vector.ai](https://vector.ai) and as a DevOps engineer(part-time contractor) at [Hyfe.ai](https://hyfeapp.com). 
+- I’m currently working full-time as an ML engineer at [Vector.ai](https://vector.ai) and as a MLOps engineer(part-time contractor) at [Hyfe.ai](https://hyfeapp.com). 
 - I’m currently learning economics.
 - I can help you with career guidance.
 - I’m looking for help with languages.
-- I enjoy playing soccer, badminton, and table tennis.
+- I enjoy playing soccer, badminton, table tennis, and chess.
 - Fun fact: I love pizza so much that I once had it for 17 days straight.
 
 
@@ -31,8 +31,8 @@ I do machine learning by specialization and am a software engineer at heart.
 | **Frameworks/Platforms** | Tensorflow, PyTorch | Node.js, GCP, Git | Vue.js, AWS, Docker |
 | **I can't club them into one** | Speech Processing(AI), Computer Vision(AI) | Natural Language(AI), Data Science, Internet of Things | Augmented Reality, Parallel Computing, Distributed Systems |
 | **OSes** | MacOS, iOS | Ubuntu, Debian, Raspbian | Windows |
-| **Languages(human)** | Hindi, English | Spanish, Portuguese | Italian // New: Latin  |
-| **Other interests** | Monetary Economics, Languages | Behavioural Economics, Neuroscience | Digital Privacy |
+| **Languages(human)** | Hindi, English | Spanish, Portuguese | Latin  |
+| **Other interests** | Monetary Economics, Languages | Behavioural Economics, Neuroscience | Digital Privacy, Chess |
 
 ## Requirements [to talk to me]
 1. Open mind
