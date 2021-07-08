@@ -1,4 +1,4 @@
-# Vidur Satija: stocks only go up
+# Vidur Satija: meme lord
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ![version :08.Jul.2021](https://img.shields.io/badge/version-08.Jul.2021-informational)
 ![profile count](https://komarev.com/ghpvc/?username=vidursatija&color=red)
