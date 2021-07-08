@@ -29,8 +29,7 @@ I do machine learning by specialization and am a software engineer at heart.
 | --------------- | --------------- | --------------- | ------------- |
 | **Languages(programming)** | Python | JS, C, C++ | Swift, Java, Go |
 | **Frameworks/Platforms** | Tensorflow, PyTorch | Node.js, GCP, Git | Vue.js, AWS, Docker |
-| **I can't club them into one** | Speech Processing(AI), Computer Vision(AI) | Natural Language(AI), Data Science, Internet of Things | Augmented Reality, Parallel Computing, Distributed Systems |
-| **OSes** | MacOS, iOS | Ubuntu, Debian, Raspbian | Windows |
+| **I can't club them into one** | Speech Processing(AI), Computer Vision(AI) | Natural Language(AI) | Parallel Computing, Internet of Things |
 | **Languages(human)** | Hindi, English | Spanish, Portuguese | Latin  |
 | **Other interests** | Monetary Economics, Languages | Behavioural Economics, Neuroscience | Digital Privacy, Chess |
 
