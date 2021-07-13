@@ -1,9 +1,8 @@
 # Vidur Satija: meme lord
 ![build: passing](https://img.shields.io/badge/build-passing-success)
-![version :08.Jul.2021](https://img.shields.io/badge/version-08.Jul.2021-informational)
+![version :13.Jul.2021](https://img.shields.io/badge/version-13.Jul.2021-informational)
 ![profile count](https://komarev.com/ghpvc/?username=vidursatija&color=red)
 
-![status: hired](https://img.shields.io/badge/status-hired-green)
 [![license: feel free to use my repos](https://img.shields.io/badge/license-feel%20free%20to%20use%20my%20repos-success)](https://github.com/vidursatija)
 [![website](https://img.shields.io/badge/website-informational)](https://vidura.dev)
 <!-- [![~Twitter:~](https://img.shields.io/twitter/follow/?style=social)](https://twitter.com/) 
