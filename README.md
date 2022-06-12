@@ -1,6 +1,6 @@
 # Vidur Satija: meme lord
 ![build: passing](https://img.shields.io/badge/build-passing-success)
-![version :08.Oct.2021](https://img.shields.io/badge/version-08.Oct.2021-informational)
+![version :12.Jun.2022](https://img.shields.io/badge/version-12.Jun.2022-informational)
 ![profile count](https://komarev.com/ghpvc/?username=vidursatija&color=red)
 
 [![license: feel free to use my repos](https://img.shields.io/badge/license-feel%20free%20to%20use%20my%20repos-success)](https://github.com/vidursatija)
@@ -10,7 +10,7 @@
 
 ## Abstract
 I do machine learning by specialization and am a software engineer at heart.
-- I’m currently working full-time as an ML engineer at [Vector.ai](https://vector.ai). 
+- I’m currently leading the Forward Deployed Machine Learning team at [Vector.ai](https://vector.ai). 
 - I’m currently learning a bit of economics, history, geography, and brushing up on algebra and calculus.
 - I can help you with career guidance.
 - I enjoy playing soccer, badminton, table tennis, and chess. And enjoy cycling long.
@@ -29,12 +29,8 @@ I do machine learning by specialization and am a software engineer at heart.
 | **Frameworks/Platforms** | Tensorflow, PyTorch | Node.js, GCP, Git | Vue.js, AWS, Docker |
 | **I can't club them into one** | Speech Processing(AI), Computer Vision(AI) | Natural Language(AI) | Parallel Computing, Internet of Things |
 | **Languages(human)** | Hindi, English | Spanish, Portuguese | Latin  |
-| **Other interests** | Monetary Economics, Languages | Behavioural Economics, Neuroscience | Digital Privacy, Chess |
+| **Other interests** | Chess, Monetary Economics, Languages | Behavioural Economics, Neuroscience | Digital Privacy |
 
-## Requirements [to talk to me]
-1. Open mind
-2. Patience because I respond slow
-3. Mutual interests?
 
 ## How to run
 ```shell
