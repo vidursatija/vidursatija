@@ -1,6 +1,6 @@
 # Vidur Satija: meme lord
 ![build: passing](https://img.shields.io/badge/build-passing-success)
-![version :12.Jun.2022](https://img.shields.io/badge/version-12.Jun.2022-informational)
+![version :20.Aug.2022](https://img.shields.io/badge/version-20.Aug.2022-informational)
 ![profile count](https://komarev.com/ghpvc/?username=vidursatija&color=red)
 
 [![license: feel free to use my repos](https://img.shields.io/badge/license-feel%20free%20to%20use%20my%20repos-success)](https://github.com/vidursatija)
@@ -10,11 +10,11 @@
 
 ## Abstract
 I do machine learning by specialization and am a software engineer at heart.
-- I’m currently leading the Forward Deployed Machine Learning team at [Vector.ai](https://vector.ai). 
-- I’m currently learning a bit of economics, history, geography, and brushing up on algebra and calculus.
+- I’m currently a Machine Learning Team Lead at [Vector.ai](https://vector.ai). 
+- I’m currently learning tennis and reinforcement learning.
 - I can help you with career guidance.
-- I enjoy playing soccer, badminton, table tennis, and chess. And enjoy cycling long.
-- Fun fact: I love pizza so much that I once had it for 17 days straight.
+- I enjoy playing soccer, badminton, table tennis, and chess.
+- Fun fact: I once had pizza for 17 days straight.
 
 
 ## ~Specifications~
