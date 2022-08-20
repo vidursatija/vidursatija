@@ -10,7 +10,8 @@
 
 ## Abstract
 I do machine learning by specialization and am a software engineer at heart.
-- I’m currently a Machine Learning Team Lead at [Vector.ai](https://vector.ai). 
+- I’m currently a Machine Learning Team Lead at [Vector.ai](https://vector.ai).
+- I'm currently building [ProjectZero](https://www.producthunt.com/posts/projectzero)
 - I’m currently learning tennis and reinforcement learning.
 - I can help you with career guidance.
 - I enjoy playing soccer, badminton, table tennis, and chess.
