@@ -1,6 +1,6 @@
 # Vidur Satija: meme lord
 ![build: passing](https://img.shields.io/badge/build-passing-success)
-![version :20.Aug.2022](https://img.shields.io/badge/version-20.Aug.2022-informational)
+![version :29.Oct.2022](https://img.shields.io/badge/version-29.Oct.2022-informational)
 ![profile count](https://komarev.com/ghpvc/?username=vidursatija&color=red)
 
 [![license: feel free to use my repos](https://img.shields.io/badge/license-feel%20free%20to%20use%20my%20repos-success)](https://github.com/vidursatija)
@@ -11,10 +11,9 @@
 ## Abstract
 I do machine learning by specialization and am a software engineer at heart.
 - I’m currently a Machine Learning Team Lead at [Vector.ai](https://vector.ai).
-- I'm currently building [ProjectZero](https://www.producthunt.com/posts/projectzero)
 - I’m currently learning tennis and reinforcement learning.
 - I can help you with career guidance.
-- I enjoy playing soccer, badminton, table tennis, and chess.
+- I enjoy playing badminton and table tennis, and reading books.
 - Fun fact: I once had pizza for 17 days straight.
 
 
@@ -30,7 +29,7 @@ I do machine learning by specialization and am a software engineer at heart.
 | **Frameworks/Platforms** | Tensorflow, PyTorch | Node.js, GCP, Git | Vue.js, AWS, Docker |
 | **I can't club them into one** | Speech Processing(AI), Computer Vision(AI) | Natural Language(AI) | Parallel Computing, Internet of Things |
 | **Languages(human)** | Hindi, English | Spanish, Portuguese | Latin  |
-| **Other interests** | Chess, Monetary Economics, Languages | Behavioural Economics, Neuroscience | Digital Privacy |
+| **Other interests** | Monetary Economics, Languages | Behavioural Economics, Neuroscience | Digital Privacy |
 
 
 ## How to run
